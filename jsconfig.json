@@ -7,8 +7,8 @@
       "baseUrl": "./",
       "paths": {
           "@/*": ["src/*"],
-          "css*": ["src/assets/css*"],
-          "icon*": ["src/assets/img*"],
+          "css*": ["@/assets/css*"],
+          "img*": ["src/assets/img*"],
           "common*": ["src/common*"],
           "components":["src/components/*"],
           "views":["src/common/views*"],

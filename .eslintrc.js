@@ -51,7 +51,7 @@ module.exports = {
     ],
     // 未使用的变量
     "no-unused-vars": [
-      2,
+      0,
       {
         vars: "all",
         args: "after-used",
