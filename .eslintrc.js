@@ -23,7 +23,7 @@ module.exports = {
       {
         singleline: 10,
         multiline: {
-          max: 1,
+          max: 2,
           allowFirstLine: false,
         },
       },
