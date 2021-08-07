@@ -22,7 +22,6 @@ import { getHomeMultidata } from 'network/home'
 import HomeSwiper from 'views/home/HomeSwiper.vue'
 import RecommendView from './RecommendView.vue'
 import FeatureView from './FeatureView.vue'
-import { } from ''
 
 export default {
   components: { NavBar, HomeSwiper, RecommendView, FeatureView },

@@ -10,7 +10,7 @@
           "css*": ["src/assets/css*"],
           "icon*": ["src/assets/img*"],
           "common*": ["src/common*"],
-          "components":["src/common/components/*"],
+          "components":["src/components/*"],
           "views":["src/common/views*"],
           "network":["src/common/network*"],
           
